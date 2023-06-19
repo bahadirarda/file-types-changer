@@ -32,11 +32,15 @@ Bu program, Python ve Tkinter kullanarak dosya uzantılarını değiştirmenizi 
 3. Terminali veya komut istemcisini açın ve projenin ana dizinine gidin.
 4. Gerekli Python paketlerini yüklemek için aşağıdaki komutu çalıştırın:
 
+```
 pip install tkinter
+```
 
 5. Programı çalıştırmak için aşağıdaki komutu kullanın:
 
+```
 python main.py
+```
 
 ## Katkılar
 
